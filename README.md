@@ -132,27 +132,7 @@ An AI-focused finance project exploring intelligent financial assistance.
 
 ---
 
-### 🇯🇵 IndoSensei
 
-> Building an AI-powered Japanese language learning platform.
-
-**Vision:**
-
-```text
-Japanese Learning
-       ↓
-AI Assistant
-       ↓
-Personalized Learning
-       ↓
-Practice + Feedback
-       ↓
-Better Japanese
-```
-
-🔗 Coming Soon
-
----
 
 ## 🛠️ Tech Stack
 
