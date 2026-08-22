@@ -244,13 +244,11 @@ An AI-powered Japanese language learning platform I'm exploring as a future AI p
 
 ## 🏆 GitHub Trophies
 
-<h2 align="center">🏆 GitHub Achievements</h2>
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=ADARSH05052005&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1"
-    alt="GitHub Trophies"
-  />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ADARSH05052005&theme=onedark&no-frame=true&no-bg=false&margin-w=15&row=2&column=6" alt="GitHub Trophies" />
+  </a>
 </p>
 ---
 
