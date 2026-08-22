@@ -215,23 +215,24 @@ An AI-focused finance project exploring intelligent financial assistance.
 </p>
 
 ---
-
-## 🐍 Contribution Snake
-
 ## 🐍 Contribution Snake
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)"
-            srcset="https://raw.githubusercontent.com/ADARSH05052005/ADARSH05052005/output/github-contribution-grid-snake-dark.svg">
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/ADARSH05052005/ADARSH05052005/output/github-contribution-grid-snake-dark.svg">
 
-    <source media="(prefers-color-scheme: light)"
-            srcset="https://raw.githubusercontent.com/ADARSH05052005/ADARSH05052005/output/github-contribution-grid-snake.svg">
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/ADARSH05052005/ADARSH05052005/output/github-contribution-grid-snake.svg">
 
-    <img alt="GitHub Contribution Snake"
-         src="https://raw.githubusercontent.com/ADARSH05052005/ADARSH05052005/output/github-contribution-grid-snake.svg">
+    <img
+      src="https://raw.githubusercontent.com/ADARSH05052005/ADARSH05052005/output/github-contribution-grid-snake.svg"
+      alt="GitHub Contribution Snake">
   </picture>
 </p>
+
 ---
 
 ## 🏆 GitHub Trophies
